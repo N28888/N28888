@@ -3,8 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N28888&layout=compact&theme=transparent)
 --- 
 VPM work with ⬇️
-</b>
-![](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)
+![Top Langs](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)
 
 
 <!---
