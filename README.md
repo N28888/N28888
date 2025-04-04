@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N28888&layout=compact&theme=transparent)
 --- 
 VPS work with ⬇️  
-![Top Langs](https://skillicons.dev/icons?i=aws,gcp,azure&perline=3)
+![Top Langs](https://skillicons.dev/icons?i=aws,gcp&perline=3)
 
 
 <!---
