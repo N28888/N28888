@@ -1,6 +1,7 @@
 # Hey there, this is Yifan. Aviation ✈️ lover. Air traffic controller on [VATSIM](https://vatsim.net)
 
 ![](https://github-readme-stats.vercel.app/api?username=N28888&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supermastergui&layout=compact&theme=transparent)
 --- 
 
 VPS work with ⬇️  
