@@ -12,3 +12,5 @@
 ![](https://github.com/N28888/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 ---
+
+My GPG key: [`C1508119D9EB83DF42A404F994E8AEC0A14A4B06`](https://keys.openpgp.org/vks/v1/by-fingerprint/C1508119D9EB83DF42A404F994E8AEC0A14A4B06)
